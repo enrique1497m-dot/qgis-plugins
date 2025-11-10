@@ -1,0 +1,18 @@
+
+[general]
+name=DeCreML
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.99
+version=1.2.0
+author=Enrique Martínez
+email=enrique1497m@gmail.com
+description=Herramienta ML con OTB para clasificar imágenes multiespectrales.
+about=Clasificación RandomForest con estilo QML.
+icon=icon.png
+category=Raster
+homepage=https://github.com/enrique1497m-dot/qgis-plugins
+tracker=https://github.com/enrique1497m-dot/qgis-plugins/issues
+repository=https://github.com/enrique1497m-dot/qgis-plugins
+experimental=False
+deprecated=False
+hasProcessingProvider=True
