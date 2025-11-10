@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <pyqgis_plugin name="DeCreML" version="1.2.0">
+    <description>Detección de Crecimiento Machine Learning (OTB + RandomForest)</description>
+    <about>Clasificación automática de imágenes multiespectrales Sentinel-2 usando OTB.</about>
+    <version>1.2.0</version>
+    <qgis_minimum_version>3.22</qgis_minimum_version>
+    <qgis_maximum_version>3.40</qgis_maximum_version>
+    <author>Equipo DeCreML</author>
+
+    <plugin_url>https://enrique1497m-dot.github.io/qgis-plugins/plugins.xml</plugin_url>
+
+    <download_url>https://enrique1497m-dot.github.io/qgis-plugins/DeCreML_1_2_modificado.zip</download_url>
+
+    <homepage>https://enrique1497m-dot.github.io/qgis-plugins/</homepage>
+
+    <category>Raster</category>
+    <icon>icon.png</icon>
+
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+
+    <tags>otb, randomforest, sentinel2, machine learning</tags>
+
+    <repository>Repositorio DeCreML</repository>
+
+    <changelog>Versión 1.2.0: Carga automática QML, eliminación confmap, mejoras internas.</changelog>
+  </pyqgis_plugin>
+</plugins>
