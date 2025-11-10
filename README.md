@@ -2,7 +2,6 @@
   <img src="DeCreML/icon.png" alt="DeCreML Icon" width="140" />
 </p>
 
-</p>
 
 <h1 align="center">DeCreML – Detección de Crecimientos con Machine Learning (OTB)</h1>
 
